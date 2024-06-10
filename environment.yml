@@ -1,0 +1,26 @@
+name: marg-int
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - scikit-learn
+  - seaborn
+  - pandas
+  - numpy
+  - xgboost
+  - ipdb
+  - pyarrow
+  - fastparquet
+  - jupyter_client=7.3
+  - notebook=6.*
+  - jupyter_nbextensions_configurator
+  - tornado=6.1
+  - fire
+  - pip:
+    - statannotations
+    - pqdm
+    - aif360
+    - json_numpy
+    - git+https://github.com/cavalab/pmcboost
+    - pyfomo
