@@ -1,4 +1,9 @@
 # Intersectional Consequences for Marginal Fairness in a Prediction Model for Emergency Room Admissions
+
+## Authors
+
+Elle Lett, Shakiba Shahbandegan, Yuval Barak-Corren, Andrew M. Fine, Ben Y. Reis,  William G. La Cava
+ 
 ## Abstract
 
 This study addresses the challenge of achieving fair treatment in emergency room (ER) admissions, considering the prevalent health disparities among marginalized populations, especially minoritized ethnoracial groups. 
