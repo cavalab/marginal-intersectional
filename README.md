@@ -2,7 +2,7 @@
 
 ## Authors
 
-Elle Lett, Shakiba Shahbandegan, Yuval Barak-Corren, Andrew M. Fine, Ben Y. Reis,  William G. La Cava
+Elle Lett, Shakiba Shahbandegan, Yuval Barak-Corren, Andrew M. Fine, William G. La Cava
  
 ## Abstract
 
